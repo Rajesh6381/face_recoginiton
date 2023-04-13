@@ -1,0 +1,74 @@
+{
+	"95072015032":
+	{
+		"RegisterNumber": 95072015032,
+		"Name": "Rajesh",
+		"ClassAndSection": "IT",
+		"Date": "27/3/23",
+		"Attendance":  [
+			{
+				"Date":"23/7/23",
+				"AttendanceStatus": "P"
+			},
+			{
+				"Date": "30-03-2023",
+				"AttendanceStatus": "P"
+			}
+		],
+        "Photo": "https://firebasestorage.googleapis.com/v0/b/attendance-34c91.appspot.com/o/95072015032.png?alt=media&token=8688056e-eadb-4582-9186-2f909a48495a"
+	},
+  "95072015051":
+	{
+		"RegisterNumber": 95072015051,
+		"Name": "jesh",
+		"ClassAndSection": "IT",
+		"Date": "27/3/23",
+		"Attendance":  [
+			{
+				"Date":"23/7/23",
+				"AttendanceStatus": "P"
+			},
+			{
+				"Date": "30-03-2023",
+				"AttendanceStatus": "P"
+			}
+		],
+        "Photo": "https://firebasestorage.googleapis.com/v0/b/attendance-34c91.appspot.com/o/95072015051.png?alt=media&token=57023be5-ef5b-431d-b59d-e17c9f6cff2a"
+	},
+  "95072015004":
+	{
+		"RegisterNumber": 95072015004,
+		"Name": "Rajesh",
+		"ClassAndSection": "CSE-B",
+		"Date": "27/3/23",
+		"Attendance":  [
+			{
+				"Date":"23/7/23",
+				"AttendanceStatus": "P"
+			},
+			{
+				"Date": "30-03-2023",
+				"AttendanceStatus": "P"
+			}
+		],
+        "Photo": "url"
+	},
+  "95072015015":
+	{
+		"RegisterNumber": 95072015015,
+		"Name": "Sam",
+		"ClassAndSection": "CSE-A",
+		"Date": "27/3/23",
+		"Attendance":  [
+			{
+				"Date":"23/7/2023",
+				"AttendanceStatus": "P"
+			},
+			{
+				"Date": "30-03-2023",
+				"AttendanceStatus": "P"
+			}
+		],
+        "Photo": "https://firebasestorage.googleapis.com/v0/b/attendance-34c91.appspot.com/o/95072015015.png?alt=media&token=8d3c91d4-5f64-439f-8cd8-3d7025c7dcd5"
+	}
+}
