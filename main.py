@@ -3,6 +3,7 @@ from firebase_connecting import firebase_connectings
 from recognition import FaceRecognition
 
 if __name__ == '__main__':
+    #MAIN FUNCTION
     print('Main Function')
 
 
